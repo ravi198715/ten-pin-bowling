@@ -9,10 +9,8 @@ public class Frame {
     public ArrayList<Integer> rollScores ;
     private boolean hasStrike;
     private int totalScore;
-    private int noOfroles;
     private int rollsRemaining;
-    private int currentRoll;
-
+  
     private static final int  MAX_PINS = 10;
 
 
