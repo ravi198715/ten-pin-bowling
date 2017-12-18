@@ -67,7 +67,8 @@ public class TenPinBowling implements  BowlingGame{
 
         int frameIndex = 0;
         gameScore = 0;
-        Frame previousFrame, frameBeforePreviousFrame ;
+        Frame previousFrame;
+        Frame frameBeforePreviousFrame ;
 
         try{
             //calculate total for each frames;
